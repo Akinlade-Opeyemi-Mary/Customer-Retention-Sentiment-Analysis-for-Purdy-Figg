@@ -300,6 +300,10 @@ A small group of loyal customers contributes most of the revenue, while a large 
 
 The visualization also confirms that customers have different engagement levels, spending habits, and retention patterns, highlighting the need for personalized marketing and loyalty strategies rather than a one-size-fits-all approach.
 
+📸 **Preview:**
+![Overview Dashboard](https://raw.githubusercontent.com/Akinlade-Opeyemi-Mary/Revenue-Leakage-Detection-Analysis/main/Overview%20Dashbord.png)
+
+
 ---
 
 ## Key Insight
