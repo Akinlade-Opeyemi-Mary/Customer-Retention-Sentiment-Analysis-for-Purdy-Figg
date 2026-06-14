@@ -364,6 +364,8 @@ This section highlights the key dashboards developed to analyze customer sentime
 
 **Takeaway:** Customer feedback is strongly influenced by emotional experiences. Positive product experiences create strong emotional connections, while dissatisfied customers provide more detailed explanations of their concerns.
 
+![Review Sentiment Dashboard](https://github.com/Akinlade-Opeyemi-Mary/Customer-Retention-Sentiment-Analysis-for-Purdy-Figg/blob/a261c0dc64e9cc7c96e58faeaf9e4cecfe02857d/Review%20Sentiment%20Dashbord.PNG)
+
 ---
 
 ### 3. Reply Effectiveness Dashboard
