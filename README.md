@@ -305,6 +305,111 @@ The visualization also confirms that customers have different engagement levels,
 
 ![R based segement chart](https://github.com/Akinlade-Opeyemi-Mary/Customer-Retention-Sentiment-Analysis-for-Purdy-Figg/blob/b9087b2204b977e63dc61832fd256e113503bc4d/R%20based%20segement%20chart.png)
 
+## 📊 Executive Dashboards & Analysis
+
+This section highlights the key dashboards developed to analyze customer sentiment, review behavior, and reply effectiveness. The objective was to understand customer satisfaction levels, identify drivers of positive and negative sentiment, and evaluate how customer engagement impacts retention and loyalty.
+
+---
+
+### 1. Customer Sentiment Dashboard
+
+**Objective:** Understand overall customer sentiment and identify the key factors driving customer satisfaction and dissatisfaction.
+
+**Key Insights:**
+
+* **Total Reviews:** 3,462
+* **Positive Reviews:** 84.89%
+* **Neutral Reviews:** 11.93%
+* **Negative Reviews:** 3.18%
+* **Net Sentiment Score:** 81.72%
+
+#### Sentiment Drivers
+
+* Scent & Fragrance recorded the strongest positive sentiment.
+* Customer Service emerged as another major satisfaction driver.
+* Delivery, Packaging, and Price-related concerns generated most negative feedback.
+
+#### Theme Contribution Analysis
+
+* All themes contributed positively to overall sentiment.
+* Scent & Fragrance (0.90) and Team Experience (0.89) recorded the highest sentiment scores.
+* Price & Value (0.47) and Other (0.36) recorded the lowest sentiment contributions.
+
+**Takeaway:** Customers are highly satisfied with Purdy & Figg's products and service experience. However, addressing delivery, packaging, and pricing concerns presents an opportunity to further improve customer satisfaction and reduce churn.
+
+![Rentention chart](https://github.com/Akinlade-Opeyemi-Mary/Customer-Retention-Sentiment-Analysis-for-Purdy-Figg/blob/c58d4314f6f366f4649ebe9f3df0649078195953/Retention%20and%20engagement%20chart.png)
+
+---
+
+### 2. Review Sentiment Dashboard
+
+**Objective:** Analyze how customers express their experiences and identify the themes that drive emotional engagement.
+
+**Key Insights:**
+
+* Positive reviews are concentrated around Scent & Fragrance and Customer Service.
+* Average Subjectivity Score: 0.60
+* Reviews are largely emotion-driven rather than purely factual.
+* Team Experience and Scent & Fragrance recorded the highest polarity scores.
+
+#### Review Emotion Analysis
+
+* Customers frequently express personal experiences and emotions when discussing products and services.
+* Emotional engagement is strongest around product quality and customer interactions.
+
+#### Review Length vs Emotion
+
+* Longer reviews tend to contain complaints, concerns, or detailed feedback.
+* Shorter reviews are generally associated with positive experiences and quick expressions of satisfaction.
+
+**Takeaway:** Customer feedback is strongly influenced by emotional experiences. Positive product experiences create strong emotional connections, while dissatisfied customers provide more detailed explanations of their concerns.
+
+---
+
+### 3. Reply Effectiveness Dashboard
+
+**Objective:** Measure how business responses influence customer sentiment and support customer relationship recovery.
+
+**Key Insights:**
+
+* **Total Reviews:** 3,462
+* **Replied Reviews:** 2,803
+* **Non-Replied Reviews:** 659
+* **Reply Rate:** 80.96%
+
+#### Reply Rate by Theme
+
+* Customer Service and Subscription/Billing received the highest response rates.
+* High response coverage demonstrates strong customer engagement efforts.
+
+#### Sentiment Recovery Analysis
+
+* Reviews that received responses showed significantly better sentiment outcomes than reviews without responses.
+* Customer responses contributed positively to sentiment recovery across multiple themes.
+
+#### Average Sentiment Improvement After Reply
+
+| Theme             | With Reply | Without Reply |
+| ----------------- | ---------- | ------------- |
+| Customer Service  | 0.91       | -0.91         |
+| Delivery/Postage  | 0.87       | -0.89         |
+| Packaging/Trigger | 0.95       | -0.95         |
+| Scent/Fragrance   | 0.97       | -0.95         |
+| Team/Experience   | 0.94       | -0.92         |
+
+**Takeaway:** Responding to customer reviews significantly improves sentiment outcomes. Prompt and thoughtful responses help rebuild trust, improve customer experience, and strengthen customer relationships.
+
+---
+
+### Executive Summary of Findings
+
+Across all dashboards, three major patterns emerged:
+
+* Customers consistently praise product quality, fragrance, and customer service.
+* Delivery, packaging, and pricing issues represent the primary sources of dissatisfaction.
+* Active customer engagement through review responses significantly improves sentiment recovery and customer trust.
+
+These findings demonstrate that while Purdy & Figg has built a strong customer experience foundation, opportunities remain to improve retention and loyalty through enhanced fulfillment processes, personalized engagement, and proactive customer support.
 
 ---
 
