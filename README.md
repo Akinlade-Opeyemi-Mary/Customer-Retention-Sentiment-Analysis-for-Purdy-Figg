@@ -401,10 +401,9 @@ This section highlights the key dashboards developed to analyze customer sentime
 
 **Takeaway:** Responding to customer reviews significantly improves sentiment outcomes. Prompt and thoughtful responses help rebuild trust, improve customer experience, and strengthen customer relationships.
 
-![Review Sentiment Dashboard](https://github.com/Akinlade-Opeyemi-Mary/Customer-Retention-Sentiment-Analysis-for-Purdy-Figg/blob/a261c0dc64e9cc7c96e58faeaf9e4cecfe02857d/Review%20Sentiment%20Dashbord.PNG)
+![Review Sentiment Dashboard](https://github.com/Akinlade-Opeyemi-Mary/Customer-Retention-Sentiment-Analysis-for-Purdy-Figg/blob/4a70fe491af34d5215f0f7355aaee4d170f72a8f/Reply%20Effectivenesss%20Dashbord.PNG)
 
 ---
-
 ### Executive Summary of Findings
 
 Across all dashboards, three major patterns emerged:
