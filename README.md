@@ -301,7 +301,7 @@ A small group of loyal customers contributes most of the revenue, while a large 
 The visualization also confirms that customers have different engagement levels, spending habits, and retention patterns, highlighting the need for personalized marketing and loyalty strategies rather than a one-size-fits-all approach.
 
 📸 **Preview:**
-![Overview Dashboard](https://raw.githubusercontent.com/Akinlade-Opeyemi-Mary/Revenue-Leakage-Detection-Analysis/main/Overview%20Dashbord.png)
+![Rentention chart](https://github.com/Akinlade-Opeyemi-Mary/Customer-Retention-Sentiment-Analysis-for-Purdy-Figg/blob/c58d4314f6f366f4649ebe9f3df0649078195953/Retention%20and%20engagement%20chart.png)
 
 
 ---
