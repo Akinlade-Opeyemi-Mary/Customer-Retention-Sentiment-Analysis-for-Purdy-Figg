@@ -337,7 +337,7 @@ This section highlights the key dashboards developed to analyze customer sentime
 
 **Takeaway:** Customers are highly satisfied with Purdy & Figg's products and service experience. However, addressing delivery, packaging, and pricing concerns presents an opportunity to further improve customer satisfaction and reduce churn.
 
-![Rentention chart](https://github.com/Akinlade-Opeyemi-Mary/Customer-Retention-Sentiment-Analysis-for-Purdy-Figg/blob/c58d4314f6f366f4649ebe9f3df0649078195953/Retention%20and%20engagement%20chart.png)
+![Customer Sentiment Dashboard](https://github.com/Akinlade-Opeyemi-Mary/Customer-Retention-Sentiment-Analysis-for-Purdy-Figg/blob/92bfa5b9e94f25c5654ba44f22b653905b962145/Customer%20Sentiment%20Dashbord.PNG)
 
 ---
 
