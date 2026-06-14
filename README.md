@@ -416,6 +416,113 @@ These findings demonstrate that while Purdy & Figg has built a strong customer e
 
 ---
 
-## Key Insight
+### Key Insight
 
 Customer retention and revenue growth can be improved by tailoring marketing campaigns, loyalty programs, and customer engagement strategies to the specific needs of each customer segment.
+
+## Strategic Recommendations
+
+Based on the findings from customer sentiment analysis, customer segmentation, and reply effectiveness analysis, the following strategic actions are recommended to improve customer retention, strengthen loyalty, and support sustainable subscription growth at Purdy & Figg.
+
+---
+
+### 1. Improve Delivery & Fulfillment Experience
+
+* Investigate recurring delivery and postage complaints.
+* Improve shipping communication and tracking visibility.
+* Monitor delivery performance metrics regularly.
+
+**Business Impact:**
+Reduces one of the most common sources of negative sentiment and improves overall customer satisfaction.
+
+---
+
+### 2. Enhance Customer Retention Programs
+
+* Introduce loyalty rewards for long-term subscribers.
+* Provide incentives for customers who complete additional subscription cycles.
+* Develop retention campaigns targeting customers at risk of cancellation.
+
+**Business Impact:**
+Encourages longer subscription tenure and increases customer lifetime value.
+
+---
+
+### 3. Implement Personalized Marketing Strategies
+
+* Leverage customer segmentation insights to tailor messaging and promotions.
+* Create targeted campaigns for High-Value Loyalists, Occasional Buyers, Trial Users, and Price-Sensitive Churners.
+* Align product recommendations with customer preferences.
+
+**Business Impact:**
+Improves marketing efficiency, customer engagement, and conversion rates.
+
+---
+
+### 4. Strengthen Customer Engagement Through Review Responses
+
+* Maintain the current high review response rate.
+* Prioritize responses to negative and neutral reviews.
+* Establish response-time standards for customer feedback.
+
+**Business Impact:**
+Improves sentiment recovery, strengthens customer trust, and enhances brand perception.
+
+---
+
+### 5. Optimize Product & Pricing Strategy
+
+* Promote high-performing products such as Spring and Mixed fragrances.
+* Review customer concerns related to price and perceived value.
+* Test product bundles and personalized offers to increase perceived value.
+
+**Business Impact:**
+Improves customer satisfaction while supporting revenue growth and retention.
+
+---
+
+## Strategic Outcome
+
+By implementing these recommendations, Purdy & Figg can:
+
+* Improve customer retention rates
+* Increase customer lifetime value (CLV)
+* Reduce subscription churn
+* Enhance customer satisfaction
+* Improve marketing effectiveness
+* Strengthen customer loyalty
+* Support sustainable recurring revenue growth
+
+**Long-term growth will be driven not only by acquiring new customers but by retaining existing customers and creating stronger customer relationships.**
+
+---
+
+## Key Strategic Insight
+
+Across all dashboards, the analysis demonstrates that Purdy & Figg's greatest opportunity lies in strengthening customer retention rather than customer acquisition.
+
+While overall customer sentiment remains highly positive, customer segmentation revealed that many customers disengage after only a few subscription cycles. At the same time, sentiment analysis showed that product quality, fragrance, and customer service are powerful loyalty drivers, while delivery, packaging, and pricing concerns contribute most to dissatisfaction.
+
+The findings further demonstrate that proactive customer engagement, particularly through review responses, plays a critical role in rebuilding trust and improving customer sentiment.
+
+---
+
+## Conclusion
+
+This analysis combined customer sentiment analysis, customer segmentation, and customer engagement metrics to provide a comprehensive view of customer behavior at Purdy & Figg.
+
+The findings revealed that customers generally have a highly positive perception of the brand, with an overall Net Sentiment Score of 81.72% and strong appreciation for product quality, fragrance, and customer service. However, retention analysis showed that many customers leave before realizing the full value of their subscription, limiting long-term customer lifetime value.
+
+Customer segmentation identified distinct behavioral groups with different engagement and retention patterns, highlighting the need for personalized marketing and loyalty strategies. Additionally, reply effectiveness analysis demonstrated that responding to customer feedback significantly improves sentiment outcomes and strengthens customer relationships.
+
+By improving delivery experiences, strengthening loyalty initiatives, personalizing customer engagement, and maintaining proactive communication, Purdy & Figg has a clear opportunity to increase retention, reduce churn, and drive sustainable long-term growth.
+
+Overall, this project demonstrates how customer analytics, sentiment analysis, and behavioral segmentation can transform customer feedback into actionable business strategies that improve both customer experience and business performance.
+
+## 👤 Author | Connect With Me
+
+**Akinlade Opeyemi Mary**  
+📊 Data Analyst | Business Intelligence | Credit Risk Analysis  
+
+🔗 **LinkedIn:** [Akinlade Opeyemi Mary](https://www.linkedin.com/in/opeyemiakinlademary)  
+📧 **Email:** akinladeopeyemi36@gmail.com
