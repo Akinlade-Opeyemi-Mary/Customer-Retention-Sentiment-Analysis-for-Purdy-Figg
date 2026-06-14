@@ -303,6 +303,8 @@ The visualization also confirms that customers have different engagement levels,
 📸 **Preview:**
 ![Rentention chart](https://github.com/Akinlade-Opeyemi-Mary/Customer-Retention-Sentiment-Analysis-for-Purdy-Figg/blob/c58d4314f6f366f4649ebe9f3df0649078195953/Retention%20and%20engagement%20chart.png)
 
+![R based segement chart](https://github.com/Akinlade-Opeyemi-Mary/Customer-Retention-Sentiment-Analysis-for-Purdy-Figg/blob/b9087b2204b977e63dc61832fd256e113503bc4d/R%20based%20segement%20chart.png)
+
 
 ---
 
